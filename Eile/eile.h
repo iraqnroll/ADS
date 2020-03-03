@@ -1,5 +1,5 @@
 /*
-Lukas Tamulaitis VU MIF PS 1 k.
+Lukas T. VU MIF PS 1 k.
 
 Eile - sarasas, kuriame elementai gali buti iterpiami tik i gala, o naikinami
 tik pradzioje.
